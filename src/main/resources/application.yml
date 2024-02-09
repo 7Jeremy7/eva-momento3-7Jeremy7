@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8080
   error:
     include-message: always
 #Configuracion de spring
@@ -16,7 +16,7 @@ spring:
     schemas: public
 
   datasource:
-    url: jdbc:postgresql://rajje.db.elephantsql.com:5432/nowznfyd?socketTimeout=3
-    username: nowznfyd
-    password: ktaCqM8sgYZ_5w-gG24yzYRdTYhaEgqI
+    url: jdbc:postgresql://jelani.db.elephantsql.com:5432/ixjyyknx?socketTimeout=3
+    username: ixjyyknx
+    password: voI4Ofd4tCJQ8W7StJraBGYZaM4kj6qI
     driverClassName: org.postgresql.Driver
